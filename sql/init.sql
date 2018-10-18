@@ -6,6 +6,8 @@
 -- Tempo de geração: 15/05/2018 às 07:57
 -- Versão do servidor: 10.1.17-MariaDB-1~jessie
 -- Versão do PHP: 5.6.26
+CREATE DATABASE unsecure;
+use unsecure;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
