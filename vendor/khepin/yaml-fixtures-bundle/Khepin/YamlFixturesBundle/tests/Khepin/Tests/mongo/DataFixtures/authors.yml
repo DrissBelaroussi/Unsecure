@@ -1,0 +1,10 @@
+model: Khepin\Fixture\Document\Article
+persistence: mongodb
+tags: [embed_many]
+fixtures:
+  first_post:
+    title: YAML rocks
+    content: It really does
+    tags:
+        - {name: YAML}
+        - {name: Configuration}
