@@ -1,7 +1,0 @@
-model: Khepin\Fixture\Entity\Owner
-fixtures:
-  some_big_company:
-    name: Some Big Company
-    owned_cars:
-      - mercedes
-      - bmw
