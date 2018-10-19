@@ -8,4 +8,4 @@
 /bin/
 /composer.phar
 composer.lock
-.idea/
+.idea/*
